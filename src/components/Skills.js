@@ -1,11 +1,11 @@
 import React from "react";
-import cIcon from "../assets/images/C.png"; // Importing the C icon in PNG format
-import csharpIcon from "../assets/images/C#.png"; // Importing the C# icon in PNG format
-import javaIcon from "../assets/images/Java.png"; // Importing the Java icon in PNG format
-import pythonIcon from "../assets/images/Python.png"; // Importing the Python icon in PNG format
-import awsIcon from "../assets/images/AWS.png"; // Importing the AWS icon in PNG format
-import azureIcon from "../assets/images/Azure.png"; // Importing the Azure icon in PNG format
-import reactIcon from "../assets/images/ReactJS.png"; // Importing the ReactJS icon in PNG format
+import cIcon from "../assets/images/C.svg"; // Importing the C icon in PNG format
+import csharpIcon from "../assets/images/C#.svg"; // Importing the C# icon in PNG format
+import javaIcon from "../assets/images/Java.svg"; // Importing the Java icon in PNG format
+import pythonIcon from "../assets/images/Python.svg"; // Importing the Python icon in PNG format
+import awsIcon from "../assets/images/AWS.svg"; // Importing the AWS icon in PNG format
+import azureIcon from "../assets/images/Azure.svg"; // Importing the Azure icon in PNG format
+import reactIcon from "../assets/images/ReactJS.svg"; // Importing the ReactJS icon in PNG format
 
 function Skills() {
   return (
