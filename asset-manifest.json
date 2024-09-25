@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.597366f5.chunk.css",
+    "main.js": "/portfolio/static/js/main.bb61b1e4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bb61b1e4.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.9dea8caa.chunk.js": "/portfolio/static/js/2.9dea8caa.chunk.js",
+    "static/js/2.9dea8caa.chunk.js.map": "/portfolio/static/js/2.9dea8caa.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.3e41a04cc73d821c7c4c370a57684a9f.js": "/portfolio/precache-manifest.3e41a04cc73d821c7c4c370a57684a9f.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.597366f5.chunk.css.map": "/portfolio/static/css/main.597366f5.chunk.css.map",
+    "static/media/C++.png": "/portfolio/static/media/C++.633bb28c.png",
+    "static/media/C.png": "/portfolio/static/media/C.ad579afd.png",
+    "static/media/Csharp.png": "/portfolio/static/media/Csharp.909c17a6.png",
+    "static/media/Java.png": "/portfolio/static/media/Java.45b25135.png",
+    "static/media/Python.png": "/portfolio/static/media/Python.f24bb490.png",
+    "static/media/asp.png": "/portfolio/static/media/asp.a8313b92.png",
+    "static/media/aws.png": "/portfolio/static/media/aws.9d049343.png",
+    "static/media/azure.png": "/portfolio/static/media/azure.388883d7.png",
+    "static/media/reactjs.png": "/portfolio/static/media/reactjs.2d2b0d56.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.077f952b.png",
+    "static/media/your-photo.jpg": "/portfolio/static/media/your-photo.1e64a9ff.jpg"
+  }
+}
