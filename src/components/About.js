@@ -1,5 +1,5 @@
 import React from "react";
-import profilePhoto from "../assets/images/your-photo.jpg"; // Place your image here
+import profilePhoto from "../assets/images/your-photo.jpg"; // Add your photo
 
 function About() {
   return (
@@ -8,9 +8,10 @@ function About() {
       <div className="about-content">
         <img src={profilePhoto} alt="Kesava" className="profile-photo" />
         <p>
-          Hi! I’m Kesava, a graduate student at the University of Cincinnati with experience in full-stack development, 
-          cloud computing (AWS, Azure), and AI-based technologies. Passionate about Machine Learning, Data Science, and 
-          Natural Language Processing. Currently focusing on cybersecurity and cloud infrastructure.
+          Hi! I’m Kesava, a graduate student at the University of Cincinnati with
+          experience in full-stack development, cloud computing (AWS, Azure), and AI-based
+          technologies. Passionate about Machine Learning, Data Science, and Natural
+          Language Processing. Currently focusing on cybersecurity and cloud infrastructure.
         </p>
       </div>
     </section>
