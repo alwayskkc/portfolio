@@ -46,19 +46,19 @@ function Skills() {
         </div>
         <div className="skill-item">
           <img src={cplusIcon} alt="C++" />
-          <p>ReactJS</p>
+          <p>C++</p>
         </div>
         <div className="skill-item">
           <img src={aspIcon} alt="ASP .NET" />
-          <p>ReactJS</p>
+          <p>ASP .NET</p>
         </div>
         <div className="skill-item">
           <img src={sqlIcon} alt="SQL" />
-          <p>ReactJS</p>
+          <p>SQL</p>
         </div>
         <div className="skill-item">
           <img src={jsIcon} alt="Java Script" />
-          <p>ReactJS</p>
+          <p>JS</p>
         </div>
       </div>
     </section>
